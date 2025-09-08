@@ -1,4 +1,2 @@
-# uwu
-Aban Zubair
-hehehee
-hueheuheu
+# Netflix Clone
+Hello! this is my netflix homepage clone
